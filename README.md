@@ -10,11 +10,10 @@
 
 - Through this project, you will answer these questions: 
   * What are the 5 most popular trips that you would call "commuter trips"?
-  * What are the 5 most popular trips that you would call "recreational trips"?
   * What are your recommendations for offers (justify based on your findings)?
 
 
-## Assignment 03 - Querying data from the BigQuery CLI - set up (Query Project)
+## Assignment 03 - Querying data from the BigQuery CLI - set up 
 
 ### What is Google Cloud SDK?
 - Read: https://cloud.google.com/sdk/docs/overview
