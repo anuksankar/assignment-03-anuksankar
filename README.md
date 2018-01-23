@@ -2,7 +2,7 @@
 
 
 # Query Project
-- In the Query Project, you will get practice with SQL while learning about Google Cloud Platform (GCP) and BiqQuery. You'll answer business-driven questions using public datasets housed in GCP. To give you experience with all the ways to use those datasets, you will use the web UI (BiqQuery), the command-line tools, and make calls to the BigQuery REST API using the client libraries for Python through jupyter notebooks.
+- In the Query Project, you will get practice with SQL while learning about Google Cloud Platform (GCP) and BiqQuery. You'll answer business-driven questions using public datasets housed in GCP. To give you experience with different ways to use those datasets, you will use the web UI (BiqQuery) and the command-line tools, and work with them in jupyter notebooks.
 - We will be using the Bay Area Bike Share Trips Data (https://cloud.google.com/bigquery/public-data/bay-bike-share). 
 
 #### Problem Statement
