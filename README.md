@@ -41,15 +41,17 @@
 
   * General query structure
 
+    ```
     bq query --use_legacy_sql=false '
         SELECT count(*)
         FROM
            `bigquery-public-data.san_francisco.bikeshare_trips`'
+    ```
 
 ### Queries
 
-1. Rerun last week's queries using bq command line tool:
-  * Paste your bq queries:
+1. Rerun last week's queries using bq command line tool (Paste your bq
+   queries):
 
 - What's the size of this dataset? (i.e., how many trips)
 
@@ -57,15 +59,14 @@
 
 - How many bikes are there?
 
-2. New Query
-  * Paste your SQL query and answer the question in a sentence.
+2. New Query (Paste your SQL query and answer the question in a sentence):
 
 - How many trips are in the morning vs in the afternoon?
 
 
 ### Project Questions
-- Identify the main questions you'll need to answer to make recommendations
-  (list below, add as many questions as you need).
+Identify the main questions you'll need to answer to make recommendations (list
+below, add as many questions as you need).
 
 - Question 1: 
 
@@ -79,9 +80,9 @@
 
 ### Answers
 
-- Answer at least 4 of the questions you identified above You can use either
-  BigQuery or the bq command line tool.  Paste your questions, queries and
-  answers below.
+Answer at least 4 of the questions you identified above You can use either
+BigQuery or the bq command line tool.  Paste your questions, queries and
+answers below.
 
 - Question 1: 
   * Answer:
